@@ -2,7 +2,7 @@
 ### _[Namaste React Live Course](https://learn.namastedev.com/courses/namaste-react-live) from Zero to Hero 🚀 by [Akshay Saini](https://www.linkedin.com/in/akshaymarch7/) Founder of [NamasteDev](https://courses.namastedev.com/learn/Namaste-React). This repository for Assignment & Class Notes taken during this First Live course._
 
 ## 💖 This Repository was trending on [Github](https://drive.google.com/file/d/1JsBAa-DXeGIvJ_xIaYjjZ5uc3z4XV8Tz/view) 🔥
-- I made [🚀 FoodFire App 😍](https://foodfire-app.netlify.app/) from scratch using React.js and Parcel.js, which is the part of this course.
+- Here is the [🚀 FoodFire App 😍](https://foodfire-app.netlify.app/) from scratch using React.js and Parcel.js, which is the part of this course.
 
 
 ## 📚 [_Chapter 01 - Inception_](./Chapter%2001%20-%20Inception/) (Date: 24-12-2022)
@@ -97,12 +97,12 @@
 You need to write the following commands on the terminal screen(in vscode) so that you can run this project locally.
 
 ```bash
-  git clone "https://github.com/chetannada/Namaste-React.git"
+  git clone "https://github.com/SangeethaShanmugm/ReactJS_Notes.git"
 ```
 Go to the project directory
 
 ```bash
-  cd Namaste-React
+  cd ReactJS_Notes
 ```
 Install dependencies
 ```bash
@@ -153,7 +153,5 @@ This project follows the [all-contributors](https://github.com/all-contributors/
 
 
 ## 🔗 Let's Connect
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetannada/)
-[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/chetannada)
-[![discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/916005177838956555)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://chetannada.netlify.app/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sangeetha-shanmugam-13320b45/)
+
